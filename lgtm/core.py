@@ -10,6 +10,6 @@ def cli(keyword, message):
     click.echo('lgtm')
 
 
-def lgtm():
+def lgtm(keyword, message):
     pass
 
